@@ -1,2 +1,2 @@
-# portfolio_licensing_app
-Projeto de portfolio, geração de licenças para softwares e integração com Woocommerce e gateway de pagamentos Asaas.
+# projeto_licensing_app
+Projeto portfolio, aplicativo de criação e gerenciamento de licenças com integração ao Woocommerce e gateway de pagamentos Asaas.

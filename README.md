@@ -1,5 +1,5 @@
 # projeto_licensing_app
-##Este projeto foi feito para enriquecer o portfólio pessoal, após o uso em ambiente real.
+Este projeto foi feito para enriquecer o portfólio pessoal, após o uso em ambiente real.
 Este é um projeto Django para criação e gerenciamento de **licenças** com integração ao **Woocommerce** e ao **gateway de pagamentos Asaas**. O aplicativo tem como objetivo facilitar a gestão de licenças para um portfólio de produtos, com funcionalidades para criação de pedidos, cupons, clientes e integração com o sistema de pagamento Asaas.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python) | ![Django](https://img.shields.io/badge/Django-5.1-green?logo=django) | ![MySQL](https://img.shields.io/badge/MySQL-8.3-orange?logo=mysql) | ![WooCommerce](https://img.shields.io/badge/WooCommerce-API-purple?logo=woocommerce) | ![Asaas](https://img.shields.io/badge/Asaas-Payments-red) | | ![Requests](https://img.shields.io/badge/Requests-HTTP-blue?logo=python)
